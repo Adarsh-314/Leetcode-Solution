@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
+| [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
