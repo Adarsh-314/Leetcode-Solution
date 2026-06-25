@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
