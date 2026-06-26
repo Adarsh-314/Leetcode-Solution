@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
