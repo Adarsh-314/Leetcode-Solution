@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
