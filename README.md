@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
