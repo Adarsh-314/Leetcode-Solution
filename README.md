@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Simulation
 |  |
 | ------- |
