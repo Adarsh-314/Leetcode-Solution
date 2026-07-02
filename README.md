@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
