@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
