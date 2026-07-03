@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
