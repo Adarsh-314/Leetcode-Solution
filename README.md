@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0414-third-maximum-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
