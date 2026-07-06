@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
