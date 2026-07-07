@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
