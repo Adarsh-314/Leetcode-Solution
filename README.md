@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3838-weighted-word-mapping](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
+| [3838-weighted-word-mapping](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
