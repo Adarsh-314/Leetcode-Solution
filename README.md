@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0414-third-maximum-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
