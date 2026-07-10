@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1323-maximum-69-number) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3838-weighted-word-mapping](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
