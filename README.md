@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
