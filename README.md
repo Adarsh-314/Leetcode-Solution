@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adarsh-314/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
